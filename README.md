@@ -22,4 +22,4 @@ This repository contains my data science projects as part of the Springboard cou
 
  [Linear Regression Using Boston Housing Data Set](https://github.com/SilasNeptune/springboard-submissions/blob/master/Linear_Regression_Boston_Housing/Boston_Housing_Linear_Regression.ipynb) : The Boston Housing data set contains information about the housing values in suburbs of Boston. The goal is to develop and compare models to predict housing prices in Boston.
  
- Heights and Weights Using Logistic Regression : Using a dataset of heights and weights of males and females to hone our understanding of classifiers and classify gender using logistic regression.
+ [Heights and Weights Using Logistic Regression](https://github.com/SilasNeptune/springboard-submissions/blob/master/Logistic_Regression_Height_and_Weight/Mini_Project_Logistic_Regression.ipynb) : Using a dataset of heights and weights of males and females to hone our understanding of classifiers and classify gender using logistic regression.
